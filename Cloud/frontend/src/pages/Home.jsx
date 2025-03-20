@@ -85,13 +85,6 @@ export const Home = () => {
             <p className="small mb-1">
               Переносите фото в облако и освобождайте память устройства одним касание</p>
           </div>
-          <div className="col-md-4 text-center">
-            <img
-              src="img/phone1@2x.jpg?v=1"
-              alt="phone1"
-              className="img-fluid rounded img-size"
-            />
-          </div>
         </div>
       </div>
     </>
