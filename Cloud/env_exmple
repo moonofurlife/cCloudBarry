@@ -1,4 +1,0 @@
-NAME=postgre
-USER_PSQL=postgre
-PASSWORD_PSQL=postgre
-PORT=5432

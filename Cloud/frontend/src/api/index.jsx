@@ -9,7 +9,7 @@ export const fetchLoginApi = async (formData) => {
     },
     body: JSON.stringify(formData),
   });
-
+  console.log(response.json())
   const data = await response.json();
   return { data, status: response.status };
 };
