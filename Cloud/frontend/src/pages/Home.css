@@ -1,0 +1,23 @@
+.img-size {
+  max-height: 600px;
+  transform-origin: center; /* Центрируем уменьшение */
+}
+
+.banner-bg {
+  background-color: #f8f9fa;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.btn {
+  background-color: #f7d7cf;
+  color: #f57e5e;
+  border: 1 px solid #f57e5e;
+}
+
+
+.btn:hover {
+  background-color: #f57e5e;
+  color: white;
+  border: 1 px solid white;
+}
